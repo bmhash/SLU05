@@ -1,0 +1,1 @@
+vynil_collection = ["Deepdish", "Fishgodeep", "Surgeon"]
