@@ -1,1 +1,1 @@
-groceries = ["milk", "bread", "wine", "beer", "butter", "eggs"]
+groceries = ["milk", "bread", "wine", "beer", "butter", "eggs", "toilet paper"]

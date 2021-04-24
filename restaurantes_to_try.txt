@@ -1,0 +1,1 @@
+restaurantes_to_try = ["Casas dos Frangos", "Breaserie de L'entrecote", "Legado", "Flow"]
